@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>net.ultrasist.capacitacion</groupId>
-    <artifactId>ejemplito</artifactId>
+    <artifactId>ej_microservicio</artifactId>
     <version>1.2.3-RELEASE</version>
-    <name>primer_ejemplito</name>
+    <name>ej_microservicio</name>
     <description>Proyecto Spring que contiene el backend de ejemplo de microservicio</description>
 
     <properties>
