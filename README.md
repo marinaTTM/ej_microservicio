@@ -1,2 +1,2 @@
 # ej_microservicio
-Ejemplo microservicio java
+Ejemplo microservicio java - MIG
